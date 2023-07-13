@@ -1,4 +1,4 @@
-# Generate, Store, and Deploy NFT Collection Readme
+# Generate, Store, and Deploy NFT Collection
 
 This readme file provides instructions on how to generate a 5-item collection using DALLE 2 or Midjourney, store the items on IPFS using pinata.cloud, and deploy an ERC721 or ERC1155 to the Goerli Ethereum Testnet. It also includes information on mapping the NFT collection using the Polygon network token mapper, writing a hardhat script to batch mint all NFTs, transferring the NFTs from Ethereum to Polygon Mumbai using the FxPortal Bridge, and testing the balanceOf function on Mumbai.
 
